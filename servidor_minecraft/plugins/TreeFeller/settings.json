@@ -1,0 +1,17 @@
+{
+  "usePermissions": false,
+  "mcMMOTreeFeller": false,
+  "instantTreeCut": false,
+  "instantToInventory": true,
+  "plantSapling": true,
+  "particles": true,
+  "maxLogBlocksPerCut": 90,
+  "delay": 0,
+  "cuttingSpeed": {
+    "WOODEN_AXE": 4,
+    "STONE_AXE": 3,
+    "GOLDEN_AXE": 1,
+    "IRON_AXE": 1,
+    "DIAMOND_AXE": 0
+  }
+}
